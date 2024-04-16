@@ -3,3 +3,7 @@ Carte et Soft pour les actionneurs de la coupe 2024 ( recyclage de la carte serv
 
 Board : [Nucleo G431KB](https://www.st.com/en/evaluation-tools/nucleo-g431kb.html#documentation)
 
+Depuis le haut niveau envoyer en utilisant l'UART un mesage de la forme "actionneur valeur\n"
+
+Exemple pour tourner le servo 2 a la valeur 1200 en utlisant pyserial on peut faire write(b'2 1200\n')
+
