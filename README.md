@@ -1,7 +1,7 @@
 # IO_2024
 Carte et Soft pour les actionneurs de la coupe 2024 ( recyclage de la carte servo testeur )
 
-Board : [Nucleo G431KB](https://www.st.com/en/evaluation-tools/nucleo-g431kb.html#documentation)
+Board : [Nucleo L432KC](https://www.st.com/en/evaluation-tools/nucleo-l432kc.html#documentation)
 
 Depuis le haut niveau envoyer en utilisant l'UART un mesage de la forme "actionneur valeur\n"
 
